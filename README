@@ -1,1 +1,6 @@
-readme
+* Sentinel
+* Copyright 2011 Kartik Rao
+* MIT Licensed for non commercial use
+
+Sentinel is a standalone javascript library that lets you watch DOM elements
+and execute callbacks when they scroll into view (or are about to).
